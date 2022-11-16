@@ -117,7 +117,7 @@ RECOMMENDATIONS to Hurricane Response:
 
 **FUTURE WORK: **
 
-- Try EMOTION DETECTION algorithm to isolate 'SAD' tweets for labeling, and have labels as "TARGET" and "Not TARGET" 
+- Try EMOTION DETECTION algorithm to isolate 'SAD' tweets for labeling, and have labels as "TARGET" and "Not TARGET" for decernment 
 
 - Collect and utilize larger data set
 
@@ -126,3 +126,5 @@ RECOMMENDATIONS to Hurricane Response:
 - Make pipeline for weeding out tweets and modeling tweets
 
 - Get a prototype of Hurri_Help working live on twitter
+
+- Remove names and places from data so Hurri_Help will be scalable for future hurricanes

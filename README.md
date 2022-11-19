@@ -128,3 +128,34 @@ RECOMMENDATIONS to Hurricane Response:
 - Get a prototype of Hurri_Help working live on twitter
 
 - Remove names and places from data so Hurri_Help will be scalable for future hurricanes
+
+``` 
+├──README.md
+├──analysis_and_modeling_notebook.ipynb                      *** MAIN NOTEBOOK
+├──Hurri_Help.pdf                                            *** PRESENTATION SLIDES
+├──images
+   ├──fort_meyers.jpg
+   ├──nasa.jpg
+   ├──flooded_highway.jpg
+   ├──tornado_damage.jpg
+   ├──fema.jpg
+   ├──ian.png
+   ├──ian.gif
+   ├─-neg_word_cloud.png
+   ├──negative_bigram.png
+   ├──posi_word_cloud.png
+   ├──posi_bigram.png
+   ├──Hurri_Help_Logo.gif
+   ├──Hurri_Help_Logo.png
+   ├──example_tweet.png
+   ├──example_response.png
+├──data_sets
+   ├──tweets_douplicates_removed.csv.gz
+   ├──ready_for_anlysis.csv
+├──requirements.txt
+├──hurri_help_outreach_algorithm.sav
+├──non_main_notebooks
+   ├──get_labels.ipynb                                      *** MAKING THE TARGET
+   ├──get_tweets.ipynb                                      *** SCRAPER NOTEBOOK
+   ├──trial_notebook(with_emojis).ipynb
+```

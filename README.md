@@ -132,7 +132,7 @@ RECOMMENDATIONS to Hurricane Response:
 ``` 
 ├──README.md
 ├──analysis_and_modeling_notebook.ipynb                      *** MAIN NOTEBOOK
-├──Hurri_Help.pdf                                            *** PRESENTATION SLIDES
+├──HurriHelp.pdf                                            *** PRESENTATION SLIDES
 ├──images
    ├──fort_meyers.jpg
    ├──nasa.jpg

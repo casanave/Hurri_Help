@@ -97,7 +97,7 @@ Comparing Models:
 - Made list of all Precision Scores from all models for eyeballing comparision 
 
 Final Model: 
-- Best model was CatBoost using TFIDF
+- Best model was CatBoost using a simple Count Vectorizer for term frequency
 - Trained best model on all training data 
 - Validated Best Model for final Precision score of 80%
   - This model as best model since it did marginally better than other models and because it's highly interpretable

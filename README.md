@@ -1,5 +1,8 @@
 # Hurri_Help
  A machine learning algorithm to help a twitterbot help those affected by Hurricane Ian 
+ 
+ Presentation Slides:
+ https://www.canva.com/design/DAFR2yfd9p0/juNA8udagCiO_l6kwt5WEg/view?utm_content=DAFR2yfd9p0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink (the PDFs Attached lose some formatting) 
 
 ![nasa-5477L9Z5eqI-unsplash](https://user-images.githubusercontent.com/8728172/202257363-9a43cd45-d9e8-4656-b1b6-46daf7d3e8d3.jpg)
 

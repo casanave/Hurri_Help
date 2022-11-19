@@ -153,4 +153,4 @@ cython_debug/
 
 testing
 config.py
-.keys.py
+.keys.json

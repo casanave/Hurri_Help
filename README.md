@@ -117,7 +117,7 @@ RECOMMENDATIONS to Hurricane Response:
 
 (AN INTERESTING FIND: DESANTIS 4th on LIST. I wonder how Gov. DeSantis would respond to this information.) 
 
-[disaster, damage, death and desantis.pdf](https://github.com/casanave/Hurri_Help/files/10050531/disaster.damage.death.and.desantis.pdf)
+![disaster, damage, death and desantis](https://user-images.githubusercontent.com/8728172/202922460-cc053874-b9ba-4561-90b6-bd826cd322c8.jpg)
 
 
 **FUTURE WORK: **

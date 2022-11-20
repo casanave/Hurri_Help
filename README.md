@@ -165,4 +165,8 @@ RECOMMENDATIONS to Hurricane Response:
    ├──get_labels.ipynb                                      *** MAKING THE TARGET
    ├──get_tweets.ipynb                                      *** SCRAPER NOTEBOOK
    ├──trial_notebook(with_emojis).ipynb
+├──pdfs
+   ├──presentation.pdf
+   ├──notebook.pdf
+   ├──github.pdf
 ```

@@ -68,7 +68,7 @@ Negative Sentiment:
 
 ![negative_bigram](https://user-images.githubusercontent.com/8728172/202269920-ed9147f9-edbf-43a6-b87a-704890df907e.png)
 
-Obersavations: most common themes of words unique to Negative Sentiment were about needing monetary help. Interestingly, also included "DeSantis". 
+Observations: most common themes of words unique to Negative Sentiment were about needing monetary help. Interestingly, also included "DeSantis". 
 
 Shared Themes of words included places and 'help'. 
 
@@ -96,7 +96,7 @@ Tuning Methods:
 
 Comparing Models:
 - Evaluated model with custom function producing classification report and ROC_AUC plot for Negative Sentiment class
-- Made list of all Precision Scores from all models for eyeballing comparision 
+- Made list of all Precision Scores from all models for comparison 
 
 Final Model: 
 - Best model was CatBoost using a simple Count Vectorizer for term frequency
@@ -122,7 +122,7 @@ RECOMMENDATIONS to Hurricane Response:
 
 **FUTURE WORK: **
 
-- Try EMOTION DETECTION algorithm to isolate 'SAD' tweets for labeling, and have labels as "TARGET" and "Not TARGET" for decernment 
+- Try EMOTION DETECTION algorithm to isolate 'SAD' tweets for labeling, and have labels as "TARGET" and "Not TARGET" for discernment 
 
 - Collect and utilize larger data set
 
@@ -134,12 +134,12 @@ RECOMMENDATIONS to Hurricane Response:
 
 - Remove names and places from data so HurriHelp will be scalable for future hurricanes
 
-** MOST IMPORTATNLY: FIND A NEW HOME ** 
+** MOST IMPORTANTLY: FIND A NEW HOME ** 
 
 ``` 
-├──README.md
+├──README.md                                                 *** PROJECT DESCRIPTION 
 ├──analysis_and_modeling_notebook.ipynb                      *** MAIN NOTEBOOK
-├──HurriHelp.pdf                                            *** PRESENTATION SLIDES
+├──HurriHelp.pdf                                             *** PRESENTATION SLIDES
 ├──images
    ├──fort_meyers.jpg
    ├──nasa.jpg
@@ -156,17 +156,18 @@ RECOMMENDATIONS to Hurricane Response:
    ├──Hurri_Help_Logo.png
    ├──example_tweet.png
    ├──example_response.png
+   ├──3_ds.jpg
 ├──data_sets
-   ├──tweets_douplicates_removed.csv.gz
-   ├──ready_for_anlysis.csv
+   ├──tweets_douplicates_removed.csv.gz 
+   ├──ready_for_anlysis.csv                                 *** ANALYSIS AND MODELING NOTEBOOK USES THIS DATA
 ├──requirements.txt
-├──hurri_help_outreach_algorithm.sav
+├──hurri_help_outreach_algorithm.sav                        *** THE MODEL SAVED WITH PICKLE
 ├──non_main_notebooks
    ├──get_labels.ipynb                                      *** MAKING THE TARGET
    ├──get_tweets.ipynb                                      *** SCRAPER NOTEBOOK
    ├──trial_notebook(with_emojis).ipynb
 ├──pdfs
-   ├──presentation.pdf
+   ├──presentation.pdf                                      *** PRESENTATION SLIDES
    ├──notebook.pdf
    ├──github.pdf
 ```

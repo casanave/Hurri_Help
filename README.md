@@ -1,4 +1,4 @@
-# Hurri_Help
+# HurriHelp
  A machine learning algorithm to help a twitterbot help those affected by Hurricane Ian 
  
  Presentation Slides:
@@ -94,7 +94,6 @@ Machines Used:
 Tuning Methods:  
 - Used GridsearchCV for all models except Naive Bayes, did 5 cross validates for each model
 
-
 Comparing Models:
 - Evaluated model with custom function producing classification report and ROC_AUC plot for Negative Sentiment class
 - Made list of all Precision Scores from all models for eyeballing comparision 
@@ -114,9 +113,12 @@ RECOMMENDATIONS to Hurricane Response:
 
 - Huge financial burden of recovery is common theme in negative tweets, more outreach by FEMA to inform public about financial options and disaster relief
 
-- Target helping specific places: Ft Meyers and Lee county
+- Look out for tweets with 3 Ds of DOOM: "Disaster", "Damage", and "Death" as these were the most common words in the negative tweets with the most negative sentiment
 
-- DeSantis reconsider his response to Hurricane
+(AN INTERESTING FIND: DESANTIS 4th on LIST. I wonder how Gov. DeSantis would respond to this information.) 
+
+[disaster, damage, death and desantis.pdf](https://github.com/casanave/Hurri_Help/files/10050531/disaster.damage.death.and.desantis.pdf)
+
 
 **FUTURE WORK: **
 
@@ -130,7 +132,9 @@ RECOMMENDATIONS to Hurricane Response:
 
 - Get a prototype of Hurri_Help working live on twitter
 
-- Remove names and places from data so Hurri_Help will be scalable for future hurricanes
+- Remove names and places from data so HurriHelp will be scalable for future hurricanes
+
+** MOST IMPORTATNLY: FIND A NEW HOME ** 
 
 ``` 
 ├──README.md

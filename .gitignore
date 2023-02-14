@@ -156,3 +156,4 @@ config.py
 .keys.json
 __pycache__
 catboost_info
+.gitattributes
